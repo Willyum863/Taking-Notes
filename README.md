@@ -37,7 +37,7 @@ An application called Note Taker that can be used to write and save notes.
 contact
 
 ## Tests
-npm tests
+N/A
 
 ## Questions 
 If any questions use github via willyum863 or email me at william.combee@yahoo.com
